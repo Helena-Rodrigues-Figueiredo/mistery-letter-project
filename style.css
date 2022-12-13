@@ -1,0 +1,83 @@
+.newspaper {
+  background-color: rgb(250, 235, 215);
+  font-family: 'Times New Roman';
+  font-weight: 700;
+}
+
+.magazine1 {
+  background-color: rgb(0, 128, 128);
+  color: rgb(255, 255, 255);
+  font-family: 'Verdana';
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.magazine2 {
+  background-image: url('images/pink-pattern.png');
+  color: rgb(255, 0, 255);
+  font-family: 'Verdana';
+  font-weight: 900;
+}
+
+.medium {
+  font-size: 20px;
+  padding: 8px;
+}
+
+.big {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.reallybig {
+  font-size: 40px;
+  padding: 15px;
+}
+
+.rotateleft {
+  transform: matrix(0.996195, -0.0871557, 0.0871557, 0.996195, 0, 0);
+  display: inline-block;
+  cursor: pointer;
+}
+
+.rotateright {
+  transform: matrix(0.996195, 0.0871557, -0.0871557, 0.996195, 0, 0);
+  display: inline-block;
+  cursor: pointer;
+}
+
+.skewleft {
+  transform: matrix(1, 0, 0.176327, 1, 0, 0);
+}
+
+.skewright {
+  transform: matrix(1, 0, -0.176327, 1, 0, 0);
+}
+
+.input-button {
+  text-align: center;
+}
+
+#carta-texto {
+  width: 50%;
+  height: 1.8rem;
+  border-radius: 10px;
+  border: 1px solid black;
+  font-size: 1.1rem;
+}
+
+#criar-carta {
+  height: 2.2rem;
+  width: 10%;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  background-color: rgb(65, 151, 248);
+  border: none;
+  border-radius: 50px;
+  color: white;
+}
+
+#carta-gerada {
+  text-align: center;
+}
