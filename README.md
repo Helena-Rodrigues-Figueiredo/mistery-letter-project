@@ -6,3 +6,12 @@
 Link para a aplicação: [Mistery Letter](https://helena-rodrigues-figueiredo.github.io/mistery-letter-project/)
  
  ![Captura de tela de 2022-12-13 19-38-42](https://user-images.githubusercontent.com/99517204/207460043-13926e66-459a-43f6-9edf-40d1921b93be.png)
+
+## Habilidades utilizadas
+
+  * HTML
+
+  * CSS
+
+  * JavaScript
+  
