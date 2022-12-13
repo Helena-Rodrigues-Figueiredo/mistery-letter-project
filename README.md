@@ -1,13 +1,8 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Mistery Letter
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+ Site que gera "cartas misteriosas", onde o usuário escreve algo no input, e aparece o texto com uma estilização aleatória. Caso clique em cima de 
+ alguma palavra, a estilização da mesma é alterada.
+ 
+Link para a aplicação: [Mistery Letter](https://helena-rodrigues-figueiredo.github.io/mistery-letter-project/)
+ 
+ ![Captura de tela de 2022-12-13 19-38-42](https://user-images.githubusercontent.com/99517204/207460043-13926e66-459a-43f6-9edf-40d1921b93be.png)
